@@ -1,0 +1,9 @@
+SET R3, 0x73
+
+DB 0x67
+
+DB 0x00
+  halt:
+  JMP halt
+  
+  
